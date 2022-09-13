@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Marvel API
+
+- Public Key - ac329299d3134d217b8c4c919b3c4288
+- Private Key - 1dc69d9e0dc660f0429191fbf6da7a529a0fb3e9
